@@ -1,2 +1,3 @@
-Lua Skid
-Code ngu số 1 vn (real)
+Lua Skiddle
+
+Code ngu số 1 vn (real) 
